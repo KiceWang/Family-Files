@@ -37,6 +37,7 @@ style_mono_accent(
   ),
   link_color = "#e75874"
 )
+xaringanExtra::use_tile_view()
 library(tidyverse)
 ```
 
@@ -48,7 +49,7 @@ library(tidyverse)
 
 1. [Tidy Data](#tidy-data)
 
-1. [In/Export Data](#data)
+1. [Im/Export Data](#data)
 
 ---
 class: inverse, center, middle
@@ -224,7 +225,7 @@ layout: false
 class: inverse, center, middle
 name: data
 
-# In/Export Data
+# Im/Export Data
 
 <html><div style='float:left'></div><hr color='#EB811B' size=1px width=796px></html>
 
