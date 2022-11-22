@@ -27,6 +27,25 @@
 
 # 博客
 
+## [二丫讲梵](https://wiki.eryajf.net/)
+
+- [穷人的理在哪里](https://wiki.eryajf.net/pages/8baa19/)
+- [写在博客发表600篇的节点](https://wiki.eryajf.net/pages/b4e432/)
+  - 我利用了太多的私下时间(尽管也虚度了太多私下时间)，在杭州工作的五年里，我抓住了无数个周末，抱着电脑，伏案于室，吸取养分，拓宽视野，拔高自己。同事们常惊讶我的成长速度，忽略了我的付出程度。
+
+## [构建我的被动收入](https://www.bmpi.dev/)
+
+- [财富常识](https://www.bmpi.dev/self/how-to-get-rich/#%E9%80%89%E6%8B%A9%E5%B8%A6%E6%9D%A0%E6%9D%86%E7%9A%84%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F)
+
+## [卢涛南 (Randy Lu)](https://lutaonan.com/blog/)
+
+- [写给即将学习编程的大学新生](https://lutaonan.com/blog/note-to-new-programming-students/)
+- [离开大学这一年](https://lutaonan.com/blog/one-year-after-dropping-out-of-school/)
+
+## [谢益辉](https://yihui.org/)
+
+- [同行评审](https://yihui.org/cn/2015/11/peer-review/)
+
 ## [左岸读书](http://www.zreading.cn/)
 
 - [破除妄心：离苦之道，在于求真。](http://www.zreading.cn/archives/8769.html)
@@ -37,17 +56,6 @@
   - 跟随自己的心，描述问题，收集信息，识别情绪，确认信念，建立逻辑，设定场景，理清目标，投入资源，迭代执行，确认结果，复盘验证，案例分析......才是可靠的人生游戏。
 
 - [我的一次思想旅行](http://www.zreading.cn/archives/8816.html)
-
-## [卢涛南 (Randy Lu)](https://lutaonan.com/blog/)
-
-- [写给即将学习编程的大学新生](https://lutaonan.com/blog/note-to-new-programming-students/)
-
-- [离开大学这一年](https://lutaonan.com/blog/one-year-after-dropping-out-of-school/)
-
-
-## [构建我的被动收入](https://www.bmpi.dev/)
-
-- [财富常识](https://www.bmpi.dev/self/how-to-get-rich/#%E9%80%89%E6%8B%A9%E5%B8%A6%E6%9D%A0%E6%9D%86%E7%9A%84%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F)
 
 # Twitter
 
